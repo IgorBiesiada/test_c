@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 ibnt Policz(int a, int b) {
-    return a + b;
+    return a * b;
 }
 
 void main(void) {
